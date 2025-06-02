@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI<br>👯 I’m looking to collaborate on AI Projects<br>🌱 I’m currently learning AI & Data Science<br>💬 Ask me about Programming 📫 How to reach me sharjeel.majeed.stu@gmail.com
+🔭 I’m currently working on AI<br>👯 I’m looking to collaborate on AI Projects<br>🌱 I’m currently learning AI & Data Science<br>💬 Ask me about Programming              📫 How to reach me sharjeel.majeed.stu@gmail.com
 
 
 ## 🌐 Socials:
